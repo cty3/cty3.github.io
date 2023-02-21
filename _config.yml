@@ -5,3 +5,5 @@ title: Irene Chen
 logo: 
 description: Hello! I'm a sophomore at UCSD doubling in Neurobiology and Math-CS.
 show_downloads: false
+github:
+  is_project_page: false
