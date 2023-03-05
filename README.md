@@ -1,11 +1,10 @@
-# cty3.github.io
-
-adding random things...
-
----
-layout: default
 ---
 
+## **About Me**
+
+Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. 
+
+---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
