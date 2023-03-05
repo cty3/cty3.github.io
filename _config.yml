@@ -2,7 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 
 title: Irene Chen
-logo: assets/img/logo.JPG
-description: Hi there! I'm a sophomore at UCSD, studying Neurobiology and Computer Science.
+logo: /assets/img/logo.JPG
+description: Hello! I'm a sophomore at UCSD, studying Neurobiology and Computer Science.
 show_downloads: false
 
