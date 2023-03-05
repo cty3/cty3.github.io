@@ -1,6 +1,7 @@
 ### About Me
 
-Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obsessed with the biological origin and technological potential of human intelligence.
+Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obsessed with the biological mechanism and technological potential of the brain. I joined the [Chalasani Lab](https://chalasani.salk.edu/) at Salk Institute in 2022
+and I hope to do cool things with my interdisciplinary background.
 
 
 
@@ -16,7 +17,7 @@ Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obse
 ---
 ### Miscellaneous
 
-I play the [cello](https://www.bilibili.com/video/BV1dG411M7EK/?spm_id_from=333.999.0.0&vd_source=94fe5cbc511e0ae254d70a6871c27a96).
+In my free time, I play the [cello](https://www.bilibili.com/video/BV1dG411M7EK/?spm_id_from=333.999.0.0&vd_source=94fe5cbc511e0ae254d70a6871c27a96), watch movies, cook, and go on spontaneous trips.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
