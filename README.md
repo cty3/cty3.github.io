@@ -13,6 +13,10 @@ Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obse
 ### Teaching
 
 
+---
+### Miscellaneous
+
+I play the [cello](https://www.bilibili.com/video/BV1dG411M7EK/?spm_id_from=333.999.0.0&vd_source=94fe5cbc511e0ae254d70a6871c27a96).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
