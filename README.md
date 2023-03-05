@@ -1,6 +1,6 @@
 ### About Me
 
-Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obsessed with both the biological and technological side of intelligence. 
+Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obsessed with the biological origin and technological potential of human intelligence.
 
 
 
