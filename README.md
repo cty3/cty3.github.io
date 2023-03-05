@@ -1,10 +1,19 @@
+### About Me
+
+Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. I'm obsessed with both the biological and technological side of intelligence. 
+
+
+
 ---
 
-## **About Me**
-
-Hi! I'm a sophomore at UCSD studying Neurobiology and Computer Science. 
+### Research
 
 ---
+
+### Teaching
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
