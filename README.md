@@ -1,4 +1,3 @@
----
 
 ### About Me
 
@@ -20,12 +19,3 @@ and I hope to do cool things with my interdisciplinary background.
 ### Miscellaneous
 
 In my free time, I play the [cello](https://www.bilibili.com/video/BV1dG411M7EK/?spm_id_from=333.999.0.0&vd_source=94fe5cbc511e0ae254d70a6871c27a96), watch movies, cook, and go on spontaneous trips.
-
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
