@@ -11,7 +11,9 @@ Email: tic005@ucsd.edu
 - Neuroethology(April 2022-present)
   - Participate in animal behavior research on the foraging behaviors of the nematode C. elegans.
   - UCSD Academic Internship Program (Summer 2022): see the [research paper](https://docs.google.com/document/d/11lP2fOtcPU7q18eFkl3dUn6e8sV5SbhMn5CJ1tfn-Yo/edit?usp=sharing) I wrote for the program.
-- 
+- Computational Biology
+  - Collaborated with Naicheng He on a project on Prediction Modeling of Children Autism and Application in Diagnosis: see [abstract](https://docs.google.com/document/d/1mUOIbwOQfHeqyzhPHxRJdhbQvituPTl7tvZrEEWEUa8/edit) here. Feel free to email me for the full paper.
+
 ---
 
 ### Teaching
